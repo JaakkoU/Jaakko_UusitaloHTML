@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(45, 45, 48);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: turquoise;
+}
+
+h1{
+    border-bottom: 4px solid palevioletred;
+    color: palevioletred;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+a {
+    color: palevioletred;
+}
+
+a:hover {
+    color: rgb(89, 89, 224);
+}
+
+img {
+    border: solid 1px rgb(212, 0, 255);
+    padding: 10px;
+    width: 250px;
+    opacity: 0.5;
+}
+
+p.paragraph1 {
+    color: rgb(243, 54, 54);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+p.paragraph2 {
+    color: rgb(42, 42, 236);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+p.paragraph3 {
+    color: rgb(32, 212, 32);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
